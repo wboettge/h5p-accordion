@@ -5,16 +5,7 @@
       "entity": "panel",
       "field": {
         "label": "内容",
-        "entity": "content",
-        "fields": [
-          {
-            "label": "标题"
-          },
-          {
-            "label": "内容类型",
-            "entity": "content"
-          }
-        ]
+        "entity": "content"
       }
     },
     {
